@@ -19,3 +19,6 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+![Captura de tela de 2024-12-16 21-52-38](https://github.com/user-attachments/assets/b8013a9a-1263-4992-ab8f-d5c64be51d9a)
+
+
